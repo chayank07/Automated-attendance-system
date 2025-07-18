@@ -1,4 +1,4 @@
-# 🕵️ Automated Attendance System using Face Recognition
+# Automated Attendance System using Face Recognition
 
 A Python-based attendance system using OpenCV and face recognition. It captures faces via webcam, recognizes them, and logs attendance to a CSV file.
 
