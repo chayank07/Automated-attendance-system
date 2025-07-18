@@ -12,7 +12,7 @@ A Python-based attendance system using OpenCV and face recognition. It captures 
 1. Load known faces from `photos/`
 2. Start webcam
 3. Detect and recognize face
-4. Log attendance to `attendance.csv`
+4. Log attendance to `logs/`
 
 Note: Real person data/images used during testing have been removed for privacy compliance.
 
